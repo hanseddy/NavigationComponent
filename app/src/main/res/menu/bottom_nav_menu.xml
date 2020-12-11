@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Library"
+        android:id="@+id/libraryFrag"
+        android:icon="@drawable/ic_library"/>
+    <item android:title="Home"
+        android:id="@+id/homepageFrag"
+        android:icon="@drawable/ic_home"/>
+    <item android:title="Exchage"
+        android:id="@+id/exchangeFrag"
+        android:icon="@drawable/ic_exchange"/>
+</menu>
